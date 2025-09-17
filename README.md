@@ -1,2 +1,0 @@
-# gitproject
-basic git code
